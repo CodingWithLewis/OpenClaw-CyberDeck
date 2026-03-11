@@ -6,6 +6,8 @@ A dual SPI display command center for Raspberry Pi 4, designed as a physical das
 
 > **Need a server for OpenClaw?** Launch your own instance with [Hostinger](https://www.hostinger.com/codingwithlewis)
 
+> **Need to print the case?** Here are the [files](https://makerworld.com/en/models/2415225-openclaw-cyberdeck-build?from=search#profileId-2648367) so you can print the case for yourself!
+
 ![Main Display](preview_cyberpunk_main.png)
 ![Status Display](preview_cyberpunk_status.png)
 
